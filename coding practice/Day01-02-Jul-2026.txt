@@ -6,4 +6,12 @@ an hour - Revised Datadog
 Tomorrow'S Tast
 1 hour coding
 1 hour English reading
-1 hour Quesion Paper
+1 hour Quesion Pape
+
+Today I learned Linux commands.
+
+pwd - Present Working Directory
+ls - List files and folders
+cd - Change directory
+mkdir - Create directory
+touch - Create file
